@@ -13,8 +13,8 @@ export const Logo: React.FC<HTMLChakraProps<"svg">> = (props) => {
             <text
                 x="30"
                 y="18"
-                font-family="Arial, sans-serif"
-                font-size="14"
+                fontFamily="Arial, sans-serif"
+                fontSize="14"
                 fill="gray"
             >
                 Anony-med
